@@ -5,7 +5,7 @@ Part of the **Zion AI App Network** — 870+ free, open-source, interlinked AI a
 
 - 🌐 **Live app:** https://ziontechgroup.com/orbital-conjunction-screener/
 - 🗂️ **Network hub:** https://github.com/Zion-support/zion-app-network
-- 🔎 **Free Discovery (always online, always free):** https://ziontechgroup.com/discovery/ — results emailed instantly to you and commercial@ziontechgroup.com
+- 🔎 **Free Discovery (always online, always free):** https://ziontechgroup.com/discovery/ — complete the free questionnaire and view your report online
 - 🏠 **Homepage:** https://ziontechgroup.com/ · 🛒 **Plans:** https://ziontechgroup.com/en/plans/
 - 🆕 **Batch 98 showcase:** https://ziontechgroup.com/apps/october-2026-batch17.html
 

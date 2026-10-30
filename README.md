@@ -17,7 +17,7 @@ Part of the **Zion App Network — Batch 67 (Space & Satellite Ops AI)**: 840+ i
 - Batch 67 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch67-sept27.html
 - Homepage spotlight: https://ziontechgroup.com/apps/spotlight-2026-09-27d.html
 - Interlinks: [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md)
-- Start with a $99 AI Discovery: https://ziontechgroup.com/discovery/
+- Start free AI Discovery: https://ziontechgroup.com/discovery/
 
 © 2026 Zion Tech Group
 
